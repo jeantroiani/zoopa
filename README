@@ -1,0 +1,14 @@
+To use it, on command line type:
+    npm app.js [data] [desired amount]
+
+    If the file lives inside the data folder of the application you only need to pass the name:
+    example: npm app.js 'mydata.csv' 1000
+
+    You can also pass an absolute path from the app:
+    example: npm app.js '../../data/mydata.csv' 1000
+
+To run test type:
+    npm test
+
+To run example type:
+    npm start

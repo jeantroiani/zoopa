@@ -45,4 +45,4 @@ exports.isMultipleOfHundred = number => {
             calculationPeriodInMonths
         }));
     });
-}());
+})();
